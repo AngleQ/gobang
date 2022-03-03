@@ -1,0 +1,2 @@
+# gobang
+First git gobang
